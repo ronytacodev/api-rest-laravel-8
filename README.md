@@ -9,7 +9,7 @@
 
 # API REST WITH LARAVEL 8
 
-How to create API REST with Laravel 8.
+How to create API REST with Laravel 8 and tested with Thunder CLient.
 
 # Stack
 
@@ -18,6 +18,7 @@ How to create API REST with Laravel 8.
 * Artisan
 * CORS
 * Composer
+* Thunder Client
 
 ## The Commands 
 * to create project -->  composer create-project laravel/laravel:^8.0 apirest-laravel8 --ignore-platform-reqs 
@@ -36,6 +37,8 @@ How to create API REST with Laravel 8.
 ![](resources/assets/screenshot1.jpg)
 
 ![](resources/assets/screenshot2.jpg)
+
+![](resources/assets/testeada.jpg)
 
 ## About Laravel
 
