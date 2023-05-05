@@ -11,6 +11,8 @@
 
 How to create API REST with Laravel 8 and tested with Thunder CLient.
 
+Link Code Frontend with Vue --> https://github.com/ronytacodev/crud-frontend-api-rest-vue2
+
 # Stack
 
 * Laravel 8
